@@ -61,6 +61,12 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/character-count/)
 - [USWDS](https://designsystem.digital.gov/components/character-count/)
 
+### Checkbox group
+
+- [W3 WAI](https://www.w3.org/WAI/tutorials/forms/grouping/#checkboxes)
+- [GOV.UK](https://design-system.service.gov.uk/components/checkboxes/)
+- [USWDS](https://designsystem.digital.gov/components/checkbox/)
+
 ### Collection - list of multiple related items (e.g. articles, events)
 
 - [USWDS](https://designsystem.digital.gov/components/collection/)
@@ -72,6 +78,8 @@
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/combobox-autocomplete-list.html) - Editable Combobox With List Autocomplete
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/combobox-autocomplete-none.html) - Editable Combobox without Autocomplete
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/grid-combo.html) - Editable Combobox with Grid Popup
+- [GOV.UK](https://design-system.service.gov.uk/components/select/)
+- [USWDS](https://designsystem.digital.gov/components/combo-box/)
 
 ### Date input
 
@@ -106,9 +114,10 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/error-summary/)
 - [USWDS](https://designsystem.digital.gov/components/validation/)
 
-### Input with prefix or suffix
+### Input (text)
 
-- [USWDS](https://designsystem.digital.gov/components/input-prefix-suffix/)
+- [UK.GOV](https://design-system.service.gov.uk/components/text-input/) - incl. with hint text, prefix and suffix, error state
+- [USWDS](https://designsystem.digital.gov/components/input-prefix-suffix/) - prefix and suffix
 
 ### Menu button
 
@@ -150,6 +159,12 @@
 - [Deque Systems](https://dequeuniversity.com/library/aria/progress-bar-bounded) - bounded
 - [Deque Systems](https://dequeuniversity.com/library/aria/progress-bar-unbounded) - unbounded
 
+### Radiobutton group
+
+- [W3 WAI](https://www.w3.org/WAI/tutorials/forms/grouping/#radio-buttons)
+- [GOV.UK](https://design-system.service.gov.uk/components/radios/)
+- [USWDS](https://designsystem.digital.gov/components/radio-buttons/)
+
 ### Search
 
 - [USWDS](https://designsystem.digital.gov/components/search/)
@@ -183,6 +198,10 @@
 
 - [GOV.UK](https://design-system.service.gov.uk/components/tag/)
 - [USWDS](https://designsystem.digital.gov/components/tag/)
+
+### Text area
+
+- [UK.GOV](https://design-system.service.gov.uk/components/textarea/)
 
 ### Time picker
 
