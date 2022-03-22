@@ -14,7 +14,7 @@
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/predictive-text)
 
-(See also in Combobox)
+(See also in [Combobox](#combobox))
 
 ## Back link
 
