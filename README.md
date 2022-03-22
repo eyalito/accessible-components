@@ -1,24 +1,6 @@
 # Accessible components
 
-## Component lists
-
-- [GOV.UK Design System Components](https://design-system.service.gov.uk/components/)
-- [US Web Design System (USWDS) Components](https://designsystem.digital.gov/components/overview/)
-- [Assets framework - Section 508 compliant components](https://assets.cms.gov/resources/framework/3.4.1/Pages/#accordion) - managed by the Centers for Medicare & Medicaid Services at US federal government
-- [Australian Government Design System Components](https://designsystem.gov.au/components/)
-- [Deque University Code Library / Deque Systems](https://dequeuniversity.com/library/)
-- [BBC Global Experience Language (GEL) components](https://bbc.github.io/gel/#components)
-- [eBay Accessibility Patterns for the Web](http://ebay.github.io/mindpatterns/)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/#components)
-- [Accessible components / Scott O’Hara](https://github.com/scottaohara/accessible_components)
-- [No Style Components / Adam Silver](https://nostyle.herokuapp.com/components)
-- [A Complete Guide To Accessible Front-End Components / Smashing Magazine](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
-- [Web Accessible Code Libraries and Design Patterns / WebAxe](https://www.webaxe.org/web-accessible-code-library-design-systems-patterns/)
-- [Accessible UI Component Libraries Roundup / DigitalA11y, Raghavendra Satish Peri](https://www.digitala11y.com/accessible-ui-component-libraries-roundup/)
-
-## Custom components
-
-### Accordion, collapsible sections
+## Accordion, collapsible sections
 
 - [GOV.UK](https://design-system.service.gov.uk/components/accordion/)
 - [USWDS](https://designsystem.digital.gov/components/accordion/)
@@ -27,46 +9,46 @@
 - [Deque Systems](https://dequeuniversity.com/library/aria/tabless-multiselect-accordion) - multiselect
 - [Deque Systems](https://dequeuniversity.com/library/aria/tabbed-accordion) - tabbed
 
-### Auto-complete, auto-suggest
+## Auto-complete, auto-suggest
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/predictive-text)
 
-### Back link
+## Back link
 
 - [GOV.UK](https://design-system.service.gov.uk/components/back-link/)
 
-### Breadcrumbs
+## Breadcrumbs
 
 - [GOV.UK](https://design-system.service.gov.uk/components/breadcrumbs/)
 - [USWDS](https://designsystem.digital.gov/components/breadcrumb/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/breadcrumb/index.html)
 
-### Card
+## Card
 
 - [USWDS](https://designsystem.digital.gov/components/card/)
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/cards/)
 
-### Carousel, content slider
+## Carousel, content slider
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/carousel)
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/a-content-slider/)
 
-### Character count (e.g. for textarea)
+## Character count (e.g. for textarea)
 
 - [GOV.UK](https://design-system.service.gov.uk/components/character-count/)
 - [USWDS](https://designsystem.digital.gov/components/character-count/)
 
-### Checkbox group
+## Checkbox group
 
 - [W3 WAI](https://www.w3.org/WAI/tutorials/forms/grouping/#checkboxes)
 - [GOV.UK](https://design-system.service.gov.uk/components/checkboxes/)
 - [USWDS](https://designsystem.digital.gov/components/checkbox/)
 
-### Collection - list of multiple related items (e.g. articles, events)
+## Collection - list of multiple related items (e.g. articles, events)
 
 - [USWDS](https://designsystem.digital.gov/components/collection/)
 
-### Combobox
+## Combobox
 
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/combobox-select-only.html) - Select-only combobox
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/combobox-autocomplete-both.html) - Editable Combobox With Both List and Inline Autocomplete
@@ -76,55 +58,55 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/select/)
 - [USWDS](https://designsystem.digital.gov/components/combo-box/)
 
-### Data tables
+## Data tables
 
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/data-tables/)
 
-### Date input
+## Date input
 
 - [GOV.UK](https://design-system.service.gov.uk/components/date-input/)
 - [USWDS](https://designsystem.digital.gov/components/date-input/)
 
-### Date picker
+## Date picker
 
 - [USWDS](https://designsystem.digital.gov/components/date-picker/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/combobox-datepicker.html) - example using combobox
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/datepicker-dialog.html) - example using dialog
 - [Deque Systems](https://dequeuniversity.com/library/aria/date-picker)
 
-### Expand/collapse details
+## Expand/collapse details
 
 - [GOV.UK](https://design-system.service.gov.uk/components/details/)
 - [Deque Systems](https://dequeuniversity.com/library/aria/expand-collapse)
 
-### Drag and Drop
+## Drag and Drop
 
 - [Salesforce UX / Jesse Hausler](https://github.com/salesforce-ux/dnd-a11y-patterns) - 4 different patterns, examples using React
 - [dragon-drop / Harris Schneiderman](https://github.com/schne324/dragon-drop)
 - [react-beautiful-dnd / Atlassian](https://github.com/atlassian/react-beautiful-dnd) - for React
 - [Gez Lemon](https://dev.opera.com/articles/accessible-drag-and-drop/) - Drag and drop between lists
 
-### Error message
+## Error message
 
 - [GOV.UK](https://design-system.service.gov.uk/components/error-message/)
 
-### Error summary (e.g. in form validation)
+## Error summary (e.g. in form validation)
 
 - [GOV.UK](https://design-system.service.gov.uk/components/error-summary/)
 - [USWDS](https://designsystem.digital.gov/components/validation/)
 
-### Input (text)
+## Input (text)
 
 - [UK.GOV](https://design-system.service.gov.uk/components/text-input/) - incl. with hint text, prefix and suffix, error state
 - [USWDS](https://designsystem.digital.gov/components/input-prefix-suffix/) - prefix and suffix
 
-### Menu button
+## Menu button
 
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-links.html)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-actions-active-descendant.html) - Actions Menu Button Example Using aria-activedescendant
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/menus-menu-buttons/)
 
-### Modal, Dialog
+## Modal, Dialog
 
 - [USWDS](https://designsystem.digital.gov/components/modal/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/dialog.html)
@@ -132,16 +114,16 @@
 - [Deque Systems](https://dequeuniversity.com/library/aria/message-dialog) - message dialog
 - [Deque Systems](https://dequeuniversity.com/library/aria/simple-dialog) - dialog with form fields
 
-### Navigation
+## Navigation
 
 - [USWDS](https://designsystem.digital.gov/components/side-navigation/) - hierarchical, vertical navigation
 - [Deque Systems](https://dequeuniversity.com/library/aria/navigation) - hierarchical, vertical navigation
 
-### Navigation menu
+## Navigation menu
 
 - [css-tricks.com / Mark Root-Wiley](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/#click-menus-to-the-rescue)
 
-### Notifications, Warning/Error/Success/Info/Alert message
+## Notifications, Warning/Error/Success/Info/Alert message
 
 - [GOV.UK](https://design-system.service.gov.uk/components/warning-text/) - Warning message
 - [USWDS](https://designsystem.digital.gov/components/alert/) - Alert
@@ -149,88 +131,88 @@
 - [Deque Systems](https://dequeuniversity.com/library/aria/alert)
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/notifications/)
 
-### Notification banner
+## Notification banner
 
 - [GOV.UK](https://design-system.service.gov.uk/components/notification-banner/)
 - [USWDS](https://designsystem.digital.gov/components/banner/)
 
-### Pagination
+## Pagination
 
 - [USWDS](https://designsystem.digital.gov/components/pagination/)
 
-### Process steps
+## Process steps
 
 - [USWDS](https://designsystem.digital.gov/components/process-list/)
 
-### Progress bar
+## Progress bar
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/progress-bar-bounded) - bounded
 - [Deque Systems](https://dequeuniversity.com/library/aria/progress-bar-unbounded) - unbounded
 
-### Radiobutton group
+## Radiobutton group
 
 - [W3 WAI](https://www.w3.org/WAI/tutorials/forms/grouping/#radio-buttons)
 - [GOV.UK](https://design-system.service.gov.uk/components/radios/)
 - [USWDS](https://designsystem.digital.gov/components/radio-buttons/)
 
-### Search
+## Search
 
 - [USWDS](https://designsystem.digital.gov/components/search/)
 
-### Skip link
+## Skip link
 
 - [GOV.UK](https://design-system.service.gov.uk/components/skip-link/)
 - [WebAIM](https://webaim.org/techniques/skipnav/)
 
-### Slider
+## Slider
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/slider-multirange) - multirange slider
 
-### Step indicator
+## Step indicator
 
 - [USWDS](https://designsystem.digital.gov/components/step-indicator/)
 
-### Summary (e.g. on multiphases form)
+## Summary (e.g. on multiphases form)
 
 - [GOV.UK](https://design-system.service.gov.uk/components/summary-list/)
 - [USWDS](https://designsystem.digital.gov/components/summary-box/)
 
-### Tabs
+## Tabs
 
 - [GOV.UK](https://design-system.service.gov.uk/components/tabs/)
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/tabbed-interfaces/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-1/tabs.html)
 - [Deque Systems](https://dequeuniversity.com/library/aria/tabpanel)
 
-### Tag
+## Tag
 
 - [GOV.UK](https://design-system.service.gov.uk/components/tag/)
 - [USWDS](https://designsystem.digital.gov/components/tag/)
 
-### Text area
+## Text area
 
 - [UK.GOV](https://design-system.service.gov.uk/components/textarea/)
 
-### Theme switcher
+## Theme switcher
 
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/a-theme-switcher/)
 
-### Time picker
+## Time picker
 
 - [USWDS](https://designsystem.digital.gov/components/time-picker/)
 
-### Toggle button, Switch
+## Toggle button, Switch
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/button-toggle)
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/toggle-button/)
 
-### Tooltip
+## Tooltip
 
 - [USWDS](https://designsystem.digital.gov/components/tooltip/)
 - [Inclusive Components / Heydon Pickering](https://inclusive-components.design/tooltips-toggletips/)
 - [Deque Systems](https://dequeuniversity.com/library/aria/tooltip)
 - [Sarah Higley](https://sarahmhigley.com/writing/tooltips-in-wcag-21/#best-practices-summary)
 
-### Tree view
+## Tree view
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/tree-view)
