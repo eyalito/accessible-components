@@ -140,6 +140,10 @@
 - [Scott O’Hara](https://github.com/scottaohara/clear-text-field-button) - input with button to clear text
 - [Adam Silver](https://nostyle.herokuapp.com/components/text-box)
 
+## Media scroller
+
+- [Adam Argyle](https://web.dev/building-a-media-scroller-component/)
+
 ## Menu
 
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-links.html) - menu button with links
