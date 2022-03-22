@@ -13,6 +13,7 @@
 ## Auto-complete, auto-suggest
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/predictive-text)
+- [Adam Silver](https://nostyle.herokuapp.com/components/autocomplete)
 
 (See also in [Combobox](#combobox))
 
@@ -41,12 +42,14 @@
 
 - [GOV.UK](https://design-system.service.gov.uk/components/character-count/)
 - [USWDS](https://designsystem.digital.gov/components/character-count/)
+- [Adam Silver](https://nostyle.herokuapp.com/components/character-countdown)
 
 ## Checkbox group
 
 - [W3 WAI](https://www.w3.org/WAI/tutorials/forms/grouping/#checkboxes)
 - [GOV.UK](https://design-system.service.gov.uk/components/checkboxes/)
 - [USWDS](https://designsystem.digital.gov/components/checkbox/)
+- [Adam Silver](https://nostyle.herokuapp.com/components/checkboxes)
 
 ## Collection - list of multiple related items (e.g. articles, events)
 
@@ -66,10 +69,11 @@
 
 - [Heydon Pickering](https://inclusive-components.design/data-tables/)
 
-## Date input
+## Date input (for memorable dates)
 
 - [GOV.UK](https://design-system.service.gov.uk/components/date-input/)
 - [USWDS](https://designsystem.digital.gov/components/date-input/)
+- [Adam Silver](https://nostyle.herokuapp.com/components/memorable-date)
 
 ## Date picker
 
@@ -77,6 +81,7 @@
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/combobox/combobox-datepicker.html) - example using combobox
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/datepicker-dialog.html) - example using dialog
 - [Deque Systems](https://dequeuniversity.com/library/aria/date-picker)
+- [Adam Silver](https://nostyle.herokuapp.com/components/date-picker)
 
 ## Expand/collapse details
 
@@ -100,17 +105,19 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/error-summary/)
 - [USWDS](https://designsystem.digital.gov/components/validation/)
 
-## Input (text)
+## Input field
 
-- [UK.GOV](https://design-system.service.gov.uk/components/text-input/) - incl. with hint text, prefix and suffix, error state
-- [USWDS](https://designsystem.digital.gov/components/input-prefix-suffix/) - prefix and suffix
-- [Scott O’Hara](https://github.com/scottaohara/clear-text-field-button) - clear text field buttons
+- [UK.GOV](https://design-system.service.gov.uk/components/text-input/) - input with hint text, prefix and suffix, error state
+- [USWDS](https://designsystem.digital.gov/components/input-prefix-suffix/) - input with prefix and suffix
+- [Scott O’Hara](https://github.com/scottaohara/clear-text-field-button) - input with button to clear text
+- [Adam Silver](https://nostyle.herokuapp.com/components/text-box)
 
-## Menu button
+## Menu
 
-- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-links.html)
+- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-links.html) - menu button with links
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-actions-active-descendant.html) - Actions Menu Button Example Using aria-activedescendant
-- [Heydon Pickering](https://inclusive-components.design/menus-menu-buttons/)
+- [Heydon Pickering](https://inclusive-components.design/menus-menu-buttons/) - menu button
+- [Adam Silver](https://nostyle.herokuapp.com/components/menu) - group menu items
 
 ## Modal, Dialog
 
@@ -147,6 +154,10 @@
 
 - [USWDS](https://designsystem.digital.gov/components/pagination/)
 
+## Password reveal
+
+- [Adam Silver](https://nostyle.herokuapp.com/components/password-reveal)
+
 ## Process steps
 
 - [USWDS](https://designsystem.digital.gov/components/process-list/)
@@ -161,10 +172,15 @@
 - [W3 WAI](https://www.w3.org/WAI/tutorials/forms/grouping/#radio-buttons)
 - [GOV.UK](https://design-system.service.gov.uk/components/radios/)
 - [USWDS](https://designsystem.digital.gov/components/radio-buttons/)
+- [Adam Silver](https://nostyle.herokuapp.com/components/radios)
 
 ## Search
 
 - [USWDS](https://designsystem.digital.gov/components/search/)
+
+## Seat chooser
+
+- [Adam Silver](https://nostyle.herokuapp.com/components/seat-chooser)
 
 ## Skip link
 
@@ -178,6 +194,10 @@
 ## Step indicator
 
 - [USWDS](https://designsystem.digital.gov/components/step-indicator/)
+
+## Stepper
+
+- [Adam Silver](https://nostyle.herokuapp.com/components/stepper) - number input with +/- steppers
 
 ## Summary (e.g. on multiphases form)
 
@@ -200,6 +220,7 @@
 ## Text area
 
 - [UK.GOV](https://design-system.service.gov.uk/components/textarea/)
+- [Adam Silver](https://nostyle.herokuapp.com/components/textarea)
 
 ## Theme switcher
 
