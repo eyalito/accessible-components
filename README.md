@@ -12,6 +12,7 @@
 
 ## Auto-complete, auto-suggest
 
+- [GOV.UK](https://github.com/alphagov/accessible-autocomplete)
 - [Deque Systems](https://dequeuniversity.com/library/aria/predictive-text)
 - [Adam Silver](https://nostyle.herokuapp.com/components/autocomplete)
 
@@ -32,11 +33,14 @@
 
 - [USWDS](https://designsystem.digital.gov/components/card/)
 - [Heydon Pickering](https://inclusive-components.design/cards/)
+- [Adrian Roselli](https://adrianroselli.com/2020/02/block-links-cards-clickable-regions-etc.html)
+- [Nomensa](https://www.nomensa.com/blog/how-build-accessible-cards-block-links)
 
 ## Carousel, content slider
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/carousel)
 - [Heydon Pickering](https://inclusive-components.design/a-content-slider/)
+- [Alison Walden](https://lsnrae.medium.com/if-you-must-use-a-carousel-make-it-accessible-977afd0173f4) - no code, only guidelines
 
 ## Character count (e.g. for textarea)
 
@@ -50,6 +54,11 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/checkboxes/)
 - [USWDS](https://designsystem.digital.gov/components/checkbox/)
 - [Adam Silver](https://nostyle.herokuapp.com/components/checkboxes)
+- [Sara Suoeidan](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons/) - hiding and styling checkboxes
+
+## Close button
+
+- [Manuel Matuzovic](https://www.htmhell.dev/20-close-buttons/)
 
 ## Collection - list of multiple related items (e.g. articles, events)
 
@@ -65,9 +74,16 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/select/)
 - [USWDS](https://designsystem.digital.gov/components/combo-box/)
 
-## Data tables
+## Cookie banner
 
-- [Heydon Pickering](https://inclusive-components.design/data-tables/)
+- [Quentin Bellanger](https://quentin-bellanger.com/blog/accessible-cookies-banner)
+
+## Data visualizations (tables, charts, etc)
+
+- [Heydon Pickering](https://inclusive-components.design/data-tables/) - data tables
+- [Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/) - data charts
+- [Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-d3-intro/) - data visualization with D3.js
+- [Highcharts](https://www.highcharts.com/blog/accessibility/) - paid product
 
 ## Date input (for memorable dates)
 
@@ -82,12 +98,8 @@
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/datepicker-dialog.html) - example using dialog
 - [Deque Systems](https://dequeuniversity.com/library/aria/date-picker)
 - [Adam Silver](https://nostyle.herokuapp.com/components/date-picker)
-
-## Expand/collapse details
-
-- [GOV.UK](https://design-system.service.gov.uk/components/details/)
-- [Deque Systems](https://dequeuniversity.com/library/aria/expand-collapse)
-- [Scott O’Hara](https://github.com/scottaohara/aria_disclosure_widget)
+- [Duet](https://github.com/duetds/date-picker)
+- [Airbnb](https://github.com/react-dates/react-dates) - for React
 
 ## Drag and Drop
 
@@ -95,6 +107,12 @@
 - [Harris Schneiderman / dragon-drop](https://github.com/schne324/dragon-drop)
 - [Atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - for React
 - [Gez Lemon](https://dev.opera.com/articles/accessible-drag-and-drop/) - Drag and drop between lists
+
+## Expand/collapse details
+
+- [GOV.UK](https://design-system.service.gov.uk/components/details/)
+- [Deque Systems](https://dequeuniversity.com/library/aria/expand-collapse)
+- [Scott O’Hara](https://github.com/scottaohara/aria_disclosure_widget)
 
 ## Error message
 
@@ -104,6 +122,16 @@
 
 - [GOV.UK](https://design-system.service.gov.uk/components/error-summary/)
 - [USWDS](https://designsystem.digital.gov/components/validation/)
+
+## Footnotes
+
+- [Kitty Giraudel](https://www.sitepoint.com/accessible-footnotes-css/)
+- [Kitty Giraudel](https://github.com/KittyGiraudel/react-a11y-footnotes) - for React
+
+## Icon links, icon buttons
+
+- [Kitty Giraudel](https://kittygiraudel.com/2020/12/10/accessible-icon-links/) - icon links
+- [Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-icon-buttons/) - icon buttons
 
 ## Input field
 
@@ -190,6 +218,7 @@
 ## Slider
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/slider-multirange) - multirange slider
+- [Scott O’Hara](https://scottaohara.github.io/a11y_styled_form_controls/src/range-slider/) - styling range slider
 
 ## Step indicator
 
