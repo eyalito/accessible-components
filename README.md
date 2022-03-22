@@ -5,9 +5,10 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/accordion/)
 - [USWDS](https://designsystem.digital.gov/components/accordion/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/accordion/accordion.html)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/collapsible-sections/)
 - [Deque Systems](https://dequeuniversity.com/library/aria/tabless-multiselect-accordion) - multiselect
 - [Deque Systems](https://dequeuniversity.com/library/aria/tabbed-accordion) - tabbed
+- [Heydon Pickering](https://inclusive-components.design/collapsible-sections/)
+- [Scott O’Hara](https://github.com/scottaohara/a11y_accordions)
 
 ## Auto-complete, auto-suggest
 
@@ -24,16 +25,17 @@
 - [GOV.UK](https://design-system.service.gov.uk/components/breadcrumbs/)
 - [USWDS](https://designsystem.digital.gov/components/breadcrumb/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/breadcrumb/index.html)
+- [Scott O’Hara](https://github.com/scottaohara/a11y_breadcrumbs)
 
 ## Card
 
 - [USWDS](https://designsystem.digital.gov/components/card/)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/cards/)
+- [Heydon Pickering](https://inclusive-components.design/cards/)
 
 ## Carousel, content slider
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/carousel)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/a-content-slider/)
+- [Heydon Pickering](https://inclusive-components.design/a-content-slider/)
 
 ## Character count (e.g. for textarea)
 
@@ -62,7 +64,7 @@
 
 ## Data tables
 
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/data-tables/)
+- [Heydon Pickering](https://inclusive-components.design/data-tables/)
 
 ## Date input
 
@@ -80,12 +82,13 @@
 
 - [GOV.UK](https://design-system.service.gov.uk/components/details/)
 - [Deque Systems](https://dequeuniversity.com/library/aria/expand-collapse)
+- [Scott O’Hara](https://github.com/scottaohara/aria_disclosure_widget)
 
 ## Drag and Drop
 
 - [Salesforce UX / Jesse Hausler](https://github.com/salesforce-ux/dnd-a11y-patterns) - 4 different patterns, examples using React
-- [dragon-drop / Harris Schneiderman](https://github.com/schne324/dragon-drop)
-- [react-beautiful-dnd / Atlassian](https://github.com/atlassian/react-beautiful-dnd) - for React
+- [Harris Schneiderman / dragon-drop](https://github.com/schne324/dragon-drop)
+- [Atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - for React
 - [Gez Lemon](https://dev.opera.com/articles/accessible-drag-and-drop/) - Drag and drop between lists
 
 ## Error message
@@ -101,12 +104,13 @@
 
 - [UK.GOV](https://design-system.service.gov.uk/components/text-input/) - incl. with hint text, prefix and suffix, error state
 - [USWDS](https://designsystem.digital.gov/components/input-prefix-suffix/) - prefix and suffix
+- [Scott O’Hara](https://github.com/scottaohara/clear-text-field-button) - clear text field buttons
 
 ## Menu button
 
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-links.html)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-actions-active-descendant.html) - Actions Menu Button Example Using aria-activedescendant
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/menus-menu-buttons/)
+- [Heydon Pickering](https://inclusive-components.design/menus-menu-buttons/)
 
 ## Modal, Dialog
 
@@ -115,6 +119,7 @@
 - [Deque Systems](https://dequeuniversity.com/library/aria/message-alert-dialog) - alert dialog
 - [Deque Systems](https://dequeuniversity.com/library/aria/message-dialog) - message dialog
 - [Deque Systems](https://dequeuniversity.com/library/aria/simple-dialog) - dialog with form fields
+- [Scott O’Hara](https://github.com/scottaohara/accessible_modal_window)
 
 ## Navigation
 
@@ -123,7 +128,7 @@
 
 ## Navigation menu
 
-- [css-tricks.com / Mark Root-Wiley](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/#click-menus-to-the-rescue)
+- [Mark Root-Wiley](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/#click-menus-to-the-rescue)
 
 ## Notifications, Warning/Error/Success/Info/Alert message
 
@@ -131,7 +136,7 @@
 - [USWDS](https://designsystem.digital.gov/components/alert/) - Alert
 - [USWDS](https://designsystem.digital.gov/components/site-alert/) - Site alert
 - [Deque Systems](https://dequeuniversity.com/library/aria/alert)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/notifications/)
+- [Heydon Pickering](https://inclusive-components.design/notifications/)
 
 ## Notification banner
 
@@ -182,9 +187,10 @@
 ## Tabs
 
 - [GOV.UK](https://design-system.service.gov.uk/components/tabs/)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/tabbed-interfaces/)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-1/tabs.html)
 - [Deque Systems](https://dequeuniversity.com/library/aria/tabpanel)
+- [Heydon Pickering](https://inclusive-components.design/tabbed-interfaces/)
+- [Scott O’Hara](https://github.com/scottaohara/a11y_tab_widget)
 
 ## Tag
 
@@ -197,7 +203,7 @@
 
 ## Theme switcher
 
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/a-theme-switcher/)
+- [Heydon Pickering](https://inclusive-components.design/a-theme-switcher/)
 
 ## Time picker
 
@@ -206,13 +212,15 @@
 ## Toggle button, Switch
 
 - [Deque Systems](https://dequeuniversity.com/library/aria/button-toggle)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/toggle-button/)
+- [Heydon Pickering](https://inclusive-components.design/toggle-button/)
+- [Scott O’Hara](https://github.com/scottaohara/a11y_switch_web_component)
 
 ## Tooltip
 
 - [USWDS](https://designsystem.digital.gov/components/tooltip/)
-- [Inclusive Components / Heydon Pickering](https://inclusive-components.design/tooltips-toggletips/)
 - [Deque Systems](https://dequeuniversity.com/library/aria/tooltip)
+- [Heydon Pickering](https://inclusive-components.design/tooltips-toggletips/)
+- [Scott O’Hara](https://github.com/scottaohara/a11y_tooltips)
 - [Sarah Higley](https://sarahmhigley.com/writing/tooltips-in-wcag-21/#best-practices-summary)
 
 ## Tree view
