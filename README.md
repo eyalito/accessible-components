@@ -10,7 +10,7 @@
 - [Heydon Pickering](https://inclusive-components.design/collapsible-sections/)
 - [Scott O’Hara](https://github.com/scottaohara/a11y_accordions)
 
-## Alert, warning-, error-, success-, info-, notification- message
+## Alert, warning, error, success, info, notification
 
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/alert/alert.html)
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/alertdialog.html) - alert dialog
