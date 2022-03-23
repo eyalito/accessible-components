@@ -1,6 +1,7 @@
 # Component lists
 
 - [W3 WAI-ARIA Authoring Practices - UI design patterns](https://www.w3.org/TR/wai-aria-practices-1.1/)
+- [Finnish Digital Agency - suomi.fi components](https://github.com/vrk-kpa/suomifi-ui-components)
 - [GOV.UK Design System Components](https://design-system.service.gov.uk/components/)
 - [US Web Design System (USWDS) Components](https://designsystem.digital.gov/components/overview/)
 - [Assets framework - Section 508 compliant components](https://assets.cms.gov/resources/framework/3.4.1/Pages/#accordion) - managed by the Centers for Medicare & Medicaid Services at US federal government
