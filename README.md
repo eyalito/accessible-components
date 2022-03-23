@@ -66,6 +66,7 @@
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/checkbox/checkbox-2/checkbox-2.html) - tri-state checkbox
 - [GOV.UK](https://design-system.service.gov.uk/components/checkboxes/)
 - [USWDS](https://designsystem.digital.gov/components/checkbox/)
+- [Deque Systems](https://dequeuniversity.com/library/aria/checkbox-tri) - tri-state checkbox
 - [Adam Silver](https://nostyle.herokuapp.com/components/checkboxes)
 - [Sara Suoeidan](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons/) - hiding and styling checkboxes
 
@@ -91,15 +92,8 @@
 
 - [Quentin Bellanger](https://quentin-bellanger.com/blog/accessible-cookies-banner)
 
-## Data visualizations (tables, charts, etc)
+## Data visualizations, charts
 
-- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/table/table.html)
-- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/grid/dataGrids.html) - also sortable, scrollable examples
-- [Heydon Pickering](https://inclusive-components.design/data-tables/) - data tables
-- [Adrian Roselli](https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html) - responsive table
-- [Adrian Roselli](https://adrianroselli.com/2019/09/table-with-expando-rows.html) - table with expandable rows
-- [Adrian Roselli](https://cdpn.io/aardrian/debug/NJQNQV) - sortable table
-- [Adrian Roselli](https://adrianroselli.com/2020/01/fixed-table-headers.html) - sticky headers
 - [Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/) - data charts
 - [Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-d3-intro/) - data visualization with D3.js
 - [Highcharts](https://www.highcharts.com/blog/accessibility/) - paid product
@@ -128,14 +122,6 @@
 - [Atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - for React
 - [Gez Lemon](https://dev.opera.com/articles/accessible-drag-and-drop/) - Drag and drop between lists
 
-## Expand/collapse details, disclosure
-
-- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-img-long-description.html) - show/hide image description
-- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-faq.html) - show/hide FAQ answers
-- [GOV.UK](https://design-system.service.gov.uk/components/details/)
-- [Deque Systems](https://dequeuniversity.com/library/aria/expand-collapse)
-- [Scott O’Hara](https://github.com/scottaohara/aria_disclosure_widget)
-
 ## Error message
 
 - [GOV.UK](https://design-system.service.gov.uk/components/error-message/)
@@ -144,6 +130,14 @@
 
 - [GOV.UK](https://design-system.service.gov.uk/components/error-summary/)
 - [USWDS](https://designsystem.digital.gov/components/validation/)
+
+## Expand/collapse details, disclosure
+
+- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-img-long-description.html) - show/hide image description
+- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-faq.html) - show/hide FAQ answers
+- [GOV.UK](https://design-system.service.gov.uk/components/details/)
+- [Deque Systems](https://dequeuniversity.com/library/aria/expand-collapse)
+- [Scott O’Hara](https://github.com/scottaohara/aria_disclosure_widget)
 
 ## Feed
 
@@ -180,6 +174,10 @@
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/listbox/listbox-scrollable.html) - scrollable
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/listbox/listbox-collapsible.html) - collapsible
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/listbox/listbox-rearrangeable.html) - reorder, multi-select
+
+## Live region
+
+- [Deque Systems](https://dequeuniversity.com/library/aria/liveregion-playground) - live region playground
 
 ## Media player
 
@@ -243,6 +241,7 @@
 - [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/radio/radio-2/radio-2.html) - using aria-activedescendant
 - [GOV.UK](https://design-system.service.gov.uk/components/radios/)
 - [USWDS](https://designsystem.digital.gov/components/radio-buttons/)
+- [Deque Systems](https://dequeuniversity.com/library/aria/radio-and-radio-group)
 - [Adam Silver](https://nostyle.herokuapp.com/components/radios)
 
 ## Search
@@ -252,6 +251,10 @@
 ## Seat chooser
 
 - [Adam Silver](https://nostyle.herokuapp.com/components/seat-chooser)
+
+## Shopping cart
+
+- [Deque Systems](https://dequeuniversity.com/library/aria/shopping-cart)
 
 ## Skeleton
 
@@ -287,6 +290,18 @@
 ## SVG
 
 - [Carie Fisher](https://www.smashingmagazine.com/2020/03/accessible-svgs-inclusiveness-beyond-patterns/)
+
+## Table
+
+- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/table/table.html)
+- [W3 WAI-ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/examples/grid/dataGrids.html) - also sortable, scrollable examples
+- [Deque Systems](https://dequeuniversity.com/library/aria/table-responsive) - responsive, collapsible
+- [Deque Systems](https://dequeuniversity.com/library/aria/table-sortable) - sortable
+- [Heydon Pickering](https://inclusive-components.design/data-tables/) - data tables
+- [Adrian Roselli](https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html) - responsive table
+- [Adrian Roselli](https://adrianroselli.com/2019/09/table-with-expando-rows.html) - table with expandable rows
+- [Adrian Roselli](https://cdpn.io/aardrian/debug/NJQNQV) - sortable table
+- [Adrian Roselli](https://adrianroselli.com/2020/01/fixed-table-headers.html) - sticky headers
 
 ## Tabs
 
